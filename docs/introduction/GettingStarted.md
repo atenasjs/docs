@@ -29,7 +29,7 @@ Atenas has a [Atenas CLI](https://github.com/atenasjs/cli) to help create, manag
 Run in terminal:
 
 ```
-deno install -f --allow-net --allow-read --allow-write --allow-run https://raw.githubusercontent.com/atenasjs/cli/master/atenas.ts
+deno run --allow-run https://git.io/atenas
 ```
 
 ## Creating a new project
