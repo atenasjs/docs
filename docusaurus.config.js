@@ -32,6 +32,11 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          href: 'https://atenas.statuspage.io',
+          label: 'Status',
+          position: 'right'
+        },
       ],
     },
     footer: {
